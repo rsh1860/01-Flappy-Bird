@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 119bb0e4f3c9632478f257756e26b4bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btnBack: {instanceID: 0}
+  - btnStage11: {instanceID: 0}
+  - homeScreenPrefab: {instanceID: 0}
+  - stage11: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
